@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98897613581",
+    "firebase_url": "https://nodemcu-aec70.firebaseio.com",
+    "project_id": "nodemcu-aec70",
+    "storage_bucket": "nodemcu-aec70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98897613581:android:bf326a9aa8e1b7c0ee1644",
+        "android_client_info": {
+          "package_name": "com.example.athlete2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98897613581-17duvj95la4ee4atkergiaul6v6vlgl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.athlete2",
+            "certificate_hash": "6c25bb6a8ab54b7c2ae275092a0bb73e49a2f51a"
+          }
+        },
+        {
+          "client_id": "98897613581-ki22cfk3nkm3bj0ebbd03mquirsl3vof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaf2lgv8m_P_6iSxmf25qb2h__Yqa2wMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98897613581-ki22cfk3nkm3bj0ebbd03mquirsl3vof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
